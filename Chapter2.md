@@ -9,7 +9,6 @@ XML Layout File
 ---
 - where the entire interface for a given activity is defined
 - to display text fields, buttons, images, and widgets, just add XML elements to the layout file.
-- 
 
 Intent Objects
 ---
