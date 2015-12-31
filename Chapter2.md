@@ -36,4 +36,3 @@ App Structure Overview
     - images
     - videos
     - strings to be displayed
-    - 
