@@ -3,7 +3,6 @@ Activity
 - each screen is a custom subclass of an Activity
   - subclass defines behavior of activity
   - responsible for loading user interface from XML layout file
-  - 
 
 XML Layout File
 ---
